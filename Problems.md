@@ -1,0 +1,1 @@
+Algumas tags da lista de professores se encerram em locais variados, e por conta disso a lista de professores fica com algumas tags aleatorios
