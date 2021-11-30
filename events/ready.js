@@ -64,7 +64,7 @@ async function requestNews(client) {
 		else {
 			console.log('channel not found');
 		}
-	}, 7.2e+6);
+	}, 3.6e+6);
 	// 7.2e+6
 }
 
